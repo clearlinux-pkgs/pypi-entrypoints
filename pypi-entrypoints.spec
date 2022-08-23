@@ -4,7 +4,7 @@
 #
 Name     : pypi-entrypoints
 Version  : 0.4
-Release  : 48
+Release  : 49
 URL      : https://files.pythonhosted.org/packages/ea/8d/a7121ffe5f402dc015277d2d31eb82d2187334503a011c18f2e78ecbb9b2/entrypoints-0.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ea/8d/a7121ffe5f402dc015277d2d31eb82d2187334503a011c18f2e78ecbb9b2/entrypoints-0.4.tar.gz
 Summary  : Discover and load entry points from installed packages.
